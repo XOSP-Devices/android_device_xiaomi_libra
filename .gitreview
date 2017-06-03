@@ -1,0 +1,5 @@
+[gerrit]
+host=review.xosp.org
+port=29418
+project=android_device_xiaomi_libra.git
+defaultbranch=xosp-n
