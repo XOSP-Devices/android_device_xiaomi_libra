@@ -1,18 +1,16 @@
 [
   {
-    "repository": "android_device_qcom_common",
+    "repository": "XOSP-Project/android_device_qcom_common",
     "target_path": "device/qcom/common",
-    "revision": "xosp-n-rebase",
-    "remote": "github"
+    "revision": "xosp-n-rebase"
   },
   {
     "repository": "AndropaX/android_kernel_xiaomi_msm8992",
     "target_path": "kernel/xiaomi/msm8992",
-    "revision": "RR-7.1",
-    "remote": "XOSPD"
+    "revision": "RR-7.1"
   },
   {
-    "repository": "proprietary_vendor_xiaomi",
+    "repository": "XOSP-Project/proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi"
   }
 ]
